@@ -1,0 +1,30 @@
+/*type selector*/
+h1,h4{
+    color:orange;
+}
+
+
+/*universal selector*/
+*{
+    color:blue;
+}
+
+/*class */
+.softdev{
+    color:rgb(67, 75, 223);
+}
+
+/*ID 
+#softdev{
+    color:rgb(208, 133, 202);
+}*/
+
+/*parent tag*/
+div>p{
+    color:black;
+}
+
+/*child tag*/
+div a{
+    color:brown;
+}
